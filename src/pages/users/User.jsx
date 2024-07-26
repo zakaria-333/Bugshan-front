@@ -12,10 +12,6 @@ import React from "react";
 
 
 
-
-
-
-
 const User = () => {
   const theme = useTheme();
   const [item, setItem] = React.useState('');
